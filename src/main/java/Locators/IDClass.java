@@ -1,4 +1,4 @@
-package Selectors;
+package Locators;
 
 public class IDClass {
 }
